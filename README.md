@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="/AngryBirds.png"  width="200"/>
+<img src="/AngryBirds.png"  width="500"/>
 </p>
 
 
